@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Project_ICT</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone Number</string>
+    <string name="letsolat">LetSolat</string>
+    <string name="welcome_to_letsolat_your_prayer_companion">Welcome to LetSolat - Your Prayer Companion</string>
+    <string name="let_s_get_started">Let\'s Get Started</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="log_out">Log Out</string>
+    <string name="title_activity_home_page1">HomePage1</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+</resources>
